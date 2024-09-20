@@ -11,6 +11,9 @@ Los lenguajes usados en el lado del cliente son:
 Diferencias:
 | JavaScript | TypeScript |
 | -- | -- |
-| a | a |
+| Lenguaje interpretado | Compilado a JavaScript |
+| Tipado dinámico | Tipado estático |
+| Usado para proyectos pequeños o medianos | Usado para proyectos grandes y complejos |
+| Soporta POO pero de manera menos tradicional | Soporte más robusto para POO |
 
 
