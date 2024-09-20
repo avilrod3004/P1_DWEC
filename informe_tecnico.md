@@ -9,8 +9,8 @@ Los lenguajes usados en el lado del cliente son:
 - **TypeScript:** fue creado en 2012 por Microsoft. Está basado en JavaScript, pero con características, herramientas y funciones adicionales que hacen que sea más ágil y seguro. Al contrario que JavaScript, TypeScript es de tipado estático. Esto hace que el código sea más robusto y sencillo de mantener.
 
 Diferencias:
-|---|---|
 | JavaScript | TypeScript |
-|
+| -- | -- |
+| a | a |
 
 
