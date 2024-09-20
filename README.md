@@ -2,4 +2,4 @@
 
 # Índice
 - Propuesta
-- Informe técnico
+- [Informe técnico](informe_tecnico.md)
