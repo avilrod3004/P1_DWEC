@@ -9,7 +9,7 @@
 7. Tecnologías a utilizar
 - https://keepcoding.io/blog/programacion-frontend-con-react/
 - https://kinsta.com/knowledgebase/what-is-express-js/
-- https://chatgpt.com/c/66f19e4c-2454-8010-942a-eb3abe50bb0a
+- https://www.jetbrains.com/es-es/webstorm/
 
 8. Compatibilidad en navegadores
 - https://desarrolloweb.com/home/javascript
