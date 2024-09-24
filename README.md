@@ -3,3 +3,6 @@
 # Índice
 - [Documentación propuesta](documentacion_propuesta.md)
 - [Informe técnico](informe_tecnico.md)
+- [Bibliografia](bibliografia.md)
+
+![Logotipo RentSports](RentSport.jpg)
