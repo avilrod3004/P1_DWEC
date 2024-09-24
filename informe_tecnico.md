@@ -1,7 +1,7 @@
 # 5. Modelo de ejecución.
 Las aplicaciones web se desarrollan siguiendo una arquitectura cliente-servidor:
-- Cliente: es el navegador web del usuario, que hace peticiones al servidor para obtener datos, enviar información o interactuar con la aplicación. El código que se ejecuta el navegador abarca los lenguajes HTML, CSS y JavaScript. Ejemplos de uso: validaciones de formularios y manejo de eventos en la página. 
-- Servidor: recibe las peticiones del cliente a través de la red. Se encarga de responder las peticiones del cliente, almacenar la información, el procesamiento de datos y el control de las reglas de negocios. El código que ejecuta suele ser PHP, Python, Java, Node.js, etc. Ejemplos de uso: autenticación de usuarios y procesamiento de transacciones.
+- **Cliente:** es el navegador web del usuario, que hace peticiones al servidor para obtener datos, enviar información o interactuar con la aplicación. El código que se ejecuta el navegador abarca los lenguajes HTML, CSS y JavaScript. Ejemplos de uso: validaciones de formularios y manejo de eventos en la página. 
+- **Servidor:** recibe las peticiones del cliente a través de la red. Se encarga de responder las peticiones del cliente, almacenar la información, el procesamiento de datos y el control de las reglas de negocios. El código que ejecuta suele ser PHP, Python, Java, Node.js, etc. Ejemplos de uso: autenticación de usuarios y procesamiento de transacciones.
 
 
 # 6. Lenguajes de programación web
@@ -25,12 +25,12 @@ Gracias a la manipulación del DOM con JavaScript podré convertir la estructura
 
 ## 7.2. Evaluación de herramientas de programación para clientes web
 Las herramientas que he seleccionado son:
-- WebStorm: Es un IDE desarrollado por JetBrains. Elijo este porque incluye desde el principio complementos que en otros editores de código hay que instalar manualmente.
-- Frameworks: React porque permite crear de manera eficiente interfaces de usuario interactivas y atractivas. Express porque es de los frameworks más populares para Node.js, es minimalista y eficiente en el manejo de peticiones HTTP.
-- Babel: Es un transpilador para evitar problemas de compatibilidad entre los navegadores, de esta manera podrá ejecutarse incluso en navegadores con versiones antiguas.
+- **WebStorm:** Es un IDE desarrollado por JetBrains. Elijo este porque incluye desde el principio complementos que en otros editores de código hay que instalar manualmente.
+- **Frameworks:** React porque permite crear de manera eficiente interfaces de usuario interactivas y atractivas. Express porque es de los frameworks más populares para Node.js, es minimalista y eficiente en el manejo de peticiones HTTP.
+- **Babel:** Es un transpilador para evitar problemas de compatibilidad entre los navegadores, de esta manera podrá ejecutarse incluso en navegadores con versiones antiguas.
 
 # 8. Compatibilidad en navegadores
-> [!info]
+> [!tip]
 > ECMAScript es el estándar creado para homogenerizar como JavaScript es implementado en cada navegador.
 
 Las versiones ES1 a ES5 son compatibles con todos los navegadores. ECMAScript 2015 está disponible en todos los navegadores actuales (Internet Explorer y clientes que ya no se actualizan no lo pueden interpretar). Las versiones posteriores de ECMAScript cada navegador las incorpora a su ritmo, es decir no siempre las novedades del último año están disponibles en todos los navegadores. Chrome suele ser el más rápido en adoptarlas.
