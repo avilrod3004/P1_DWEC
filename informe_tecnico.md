@@ -30,7 +30,6 @@ Las herramientas que he seleccionado son:
 - **Babel:** Es un transpilador para evitar problemas de compatibilidad entre los navegadores, de esta manera podrá ejecutarse incluso en navegadores con versiones antiguas.
 
 # 8. Compatibilidad en navegadores
-> [!tip]
 > ECMAScript es el estándar creado para homogenerizar como JavaScript es implementado en cada navegador.
 
 Las versiones ES1 a ES5 son compatibles con todos los navegadores. ECMAScript 2015 está disponible en todos los navegadores actuales (Internet Explorer y clientes que ya no se actualizan no lo pueden interpretar). Las versiones posteriores de ECMAScript cada navegador las incorpora a su ritmo, es decir no siempre las novedades del último año están disponibles en todos los navegadores. Chrome suele ser el más rápido en adoptarlas.
@@ -40,6 +39,3 @@ Para conocer el estado de un navegador respecto a una especificación de ECMAScr
 Para evitar problemas de compatibilidad se usan transpiladores como Babel. Pasan el código nuevo a código seguro para que pueda funcionar en cualquier dispositivo. Por ejemplo, las funciones flecha las convierte en funciones normales en navegadores que no son compatibles con ECMAScript6.
 
 También pueden surgir problemas de compatibilidad con los lenguajes de marcas HTML y CSS para hacerles frente se usan poyfills para emular las funcionalidades no soportadas.
-
-> [!tip]
-> Polyfill es un fragmento de código que implementa una característica moderna o estándar en versiones antiguas para que el navegador lo pueda soportar.
