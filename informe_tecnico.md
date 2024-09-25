@@ -1,3 +1,5 @@
+---
+
 # 5. Modelo de ejecución
 Las aplicaciones web se desarrollan siguiendo una arquitectura cliente-servidor:
 - **Cliente:** es el navegador web del usuario, que hace peticiones al servidor para obtener datos, enviar información o interactuar con la aplicación. El código que se ejecuta el navegador abarca los lenguajes HTML, CSS y JavaScript. Ejemplos de uso: validaciones de formularios y manejo de eventos en la página. 
