@@ -1,7 +1,7 @@
 > PROYECTO 1. Desarrollando una aplicación web: De la teoría a la práctica
 
 <div style="text-align: center;">
-    <img src="RentSport.jpg" alt="Logotipo RentSports" width="50%"/>
+    <img src="RentSport.png" alt="Logotipo RentSports" width="50%"/>
 </div>
 
 # Índice

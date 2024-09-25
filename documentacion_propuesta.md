@@ -1,4 +1,4 @@
-![Logotipo RentSports](RentSport.jpg)
+![Logotipo RentSports](RentSport.png)
 
 # 1. Idea de la aplicación
 Se trata de una aplicación web para el alquiler de equipos deportivos. Los usuarios podrán alquilar equipos como bicicletas, redes de voleibol, equipos de escalada y tablas de surf. Excepto artículos de uso personal como ropa deportiva y calzado, para evitar problemas de seguridad e higiene. La plataforma estará disponible tanto para tiendas como para particulares.
